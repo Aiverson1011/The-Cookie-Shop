@@ -69,6 +69,11 @@ main{
     border-radius: 0px;
 }
 
+.star{
+    height: 150px;
+    width: 150px;
+}
+
 section{
     text-align: center;
 }
